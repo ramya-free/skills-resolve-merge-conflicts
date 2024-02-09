@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Customrole",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4216e335-3d81-4b8a-99e3-42ed7eb6ddd4",
+		"tenantId": "2e74b898-298f-4de4-978d-2ad7f6ec6c2b"
+	}
+}
